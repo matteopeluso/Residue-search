@@ -1,5 +1,3 @@
-# Residue-search
-
 ## Residue Search Procedure
 ### Matteo Peluso, Doctoral Researcher Methods and Models for Molecular Sciences
 #### email: matteo.peluso@sns.it
